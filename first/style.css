@@ -1,0 +1,27 @@
+body {
+	background-color: #D3D3D3;
+
+}
+
+.topbox {
+	width: 100%;
+	height: 130px;
+	background-color: black;
+}
+
+.middle {
+	width: 500px;
+	height: 500px;
+	background-color: #f9f9f9;
+	margin-left: 350px;
+
+}
+
+.bottombar {
+	width: 500px;
+	height: 100px;
+	background-color: black;
+	margin-left: 350px;
+}
+
+
